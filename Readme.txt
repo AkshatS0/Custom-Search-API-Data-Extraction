@@ -1,4 +1,4 @@
-**This Python script serves as a project to gather information about the electric vehicle company Canoo from various online sources. The project is divided into three main parts:**
+This Python script serves as a project to gather information about the electric vehicle company Canoo from various online sources. The project is divided into three main parts:
 
 1. Basic Information Extraction from Wikipedia:
 
