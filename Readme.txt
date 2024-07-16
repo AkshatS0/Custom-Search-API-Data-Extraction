@@ -22,10 +22,10 @@ Normalizes the JSON data into a Pandas DataFrame and exports the results to an E
 
 Notes:
 
-Before running the Google Custom Search API section, you need to replace 'Your API_KEY' and 'Your SEARCH_ENGINE_ID' with your actual API key and custom search engine ID.
-The 'Query' parameter in the script can be modified to any search query of interest.
-The final output will be Excel files containing information about Canoo, its competitors, and search results related to the specified query.
-This project showcases web scraping techniques, data manipulation using Pandas, and integration with a web search API to gather comprehensive information about a specific topic, in this case, the company Canoo.
+1. Before running the Google Custom Search API section, you need to replace 'Your API_KEY' and 'Your SEARCH_ENGINE_ID' with your actual API key and custom search engine ID.
+2. The 'Query' parameter in the script can be modified to any search query of interest.
+3. The final output will be Excel files containing information about Canoo, its competitors, and search results related to the specified query.
+4. This project showcases web scraping techniques, data manipulation using Pandas, and integration with a web search API to gather comprehensive information about a specific topic, in this case, the company Canoo.
 
 
 
